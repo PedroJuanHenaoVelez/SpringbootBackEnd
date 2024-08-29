@@ -14,6 +14,8 @@ La Farmacia del Señor Bejapasteles es una aplicación de gestión para una farm
 
 ## Instalación
 
+## Para probar este correo necesitara Java Home, npgsql, swingin
+
 ### Descargar o Clonar el Repositorio
 
 Puedes descargar el repositorio como un archivo ZIP o clonar el repositorio utilizando Git.
@@ -28,6 +30,10 @@ Puedes descargar el repositorio como un archivo ZIP o clonar el repositorio util
 
 ```bash
 git clone https://github.com/Pedr/tu-repositorio.git
+```
+
+**Despues abra el proyecto en intelliJ:**
+1. Correr el proyecto y asegurar que spring boot confirme que la aplicacion esta corriendo adecuadamente
 
 ### Contact
 pedro.henao79@eia.edu.co
